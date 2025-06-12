@@ -9,7 +9,6 @@ basic:
         staging: { user: dev11, password: dev11 }
         development: { user: '', password: '' }
     breakpoints:
-        - 375
         - 640
         - 1024
         - 1366
