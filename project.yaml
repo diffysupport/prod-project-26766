@@ -10,11 +10,8 @@ basic:
         development: { user: '', password: '' }
     breakpoints:
         - 375
-        - 376
         - 640
-        - 800
         - 1024
-        - 1280
         - 1366
     pages:
         - /
@@ -141,7 +138,7 @@ basic:
 advanced:
     mask: ''
     remove: ''
-    delay: 20
+    delay: 40
     scroll: true
     headers:
         - { header: '', value: '' }
